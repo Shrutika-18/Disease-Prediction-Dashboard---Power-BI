@@ -14,9 +14,9 @@ This Power BI dashboard visualizes patterns and trends in disease prediction bas
 - Excel (for data preprocessing)
 
 **Dataset**
-•	Diabetes Dataset(https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset))
-•	Cancer Patients Data (https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data)
-•	Kaggle Kidney Disease Dataset (https://www.kaggle.com/datasets/mahmoudlimam/preprocessed-chronic-kidney-disease-dataset)
+Diabetes Dataset(https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset))
+Cancer Patients Data (https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data)
+Kaggle Kidney Disease Dataset (https://www.kaggle.com/datasets/mahmoudlimam/preprocessed-chronic-kidney-disease-dataset)
 
 **📈Insights**
 - Most common symptoms across age groups
